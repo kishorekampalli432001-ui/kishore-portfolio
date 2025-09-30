@@ -12,3 +12,5 @@ This is a minimal Vite + React + Tailwind project pre-configured for quick deplo
 - Install dependencies: `npm install`
 - Run dev server: `npm run dev`
 - Build: `npm run build`
+"Trigger deployment" 
+"Trigger deployment" 
